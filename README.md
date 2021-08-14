@@ -8,3 +8,5 @@ Using the ERD you created in this module as a reference and your knowledge of SQ
 1. Data: departments, dept_emp, dept_manager, employees, salaries., titles at CSV files.
 2. Software: VSCode, pgAdmin, quickdatabase.
 
+# Results
+Create an ERD (Entity Relationship Diagram) used to visualize the relationship between the data sources and the structure of the company's employee plan to facilitate the analysis
